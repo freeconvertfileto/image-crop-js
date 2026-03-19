@@ -2,7 +2,7 @@
 
 Crop images with a drag-handle interface, aspect ratio lock, and rule-of-thirds grid, entirely in the browser.
 
-**Live Demo:** https://file-converter-free.com/en/image-tools/image-crop
+**Live Demo:** https://file-converter-free.com/en/image-tools/crop-image-online-free
 
 ## How It Works
 
